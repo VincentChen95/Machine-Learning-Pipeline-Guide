@@ -10,8 +10,6 @@ There will be a notebook for each one of the Machine Learning Pipeline steps:
 
 We will use the house price dataset available on [Kaggle.com](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). See below for more details.
 
-===================================================================================================
-
 ## Predicting Sale Price of Houses
 
 The aim of the project is to build a machine learning model to predict the sale price of homes based on different explanatory variables describing aspects of residential houses. 
