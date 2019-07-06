@@ -1,6 +1,5 @@
 # Machine-Learning-Pipeline-Guide
-Hello guys
-## Machine Learning Model Building Pipeline
+Hello guys, this is a guide for a machine learning pipeline.
 
 There will be a notebook for each one of the Machine Learning Pipeline steps:
 
@@ -8,8 +7,6 @@ There will be a notebook for each one of the Machine Learning Pipeline steps:
 2. Feature Engineering
 3. Feature Selection
 4. Model Building
-
-**This is the notebook for step 2: Feature Engineering**
 
 We will use the house price dataset available on [Kaggle.com](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data). See below for more details.
 
@@ -33,8 +30,3 @@ To download the House Price dataset go this website:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 Scroll down to the bottom of the page, and click on the link 'train.csv', and then click the 'download' blue button towards the right of the screen, to download the dataset. Rename the file as 'houseprice.csv' and save it to a directory of your choice.
-
-**Note the following:**
--  You need to be logged in to Kaggle in order to download the datasets.
--  You need to accept the terms and conditions of the competition to download the dataset
--  If you save the file to the same directory where you saved this jupyter notebook, then you can run the code as it is written here.
